@@ -1,6 +1,6 @@
 ![HSWT Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HSWT_Logo_gruen.png/960px-HSWT_Logo_gruen.png)
-# Modul: Programmierung für Datenanalyse, Bildverarbeitung und Simulation 
-# Projekt 8: Modellierung von Fermentationsdaten - Rühmann M., Stehno C.
+## Modul: Programmierung für Datenanalyse, Bildverarbeitung und Simulation 
+## Projekt 8: Modellierung von Fermentationsdaten - Rühmann M., Stehno C.
 ## Inhaltsverzeichnis
 - [Projektbeschreibung](#projektbeschreibung)
 - [Programmablauf und -architektur](#programmablauf-und--architektur)
